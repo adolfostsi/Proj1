@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>imgs/atention.png</file>
+        <file>imgs/client_server.jpeg</file>
+        <file>imgs/giphy.gif</file>
+        <file>imgs/icon.jpg</file>
+        <file>imgs/sign-check-icon.png</file>
+        <file>imgs/gif2.gif</file>
+        <file>imgs/pizza.gif</file>
+    </qresource>
+</RCC>
